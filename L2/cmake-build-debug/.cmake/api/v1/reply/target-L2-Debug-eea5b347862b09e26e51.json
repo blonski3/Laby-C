@@ -38,10 +38,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++23 -fdiagnostics-color=always"
+					"fragment" : "-g -std=gnu2x -fdiagnostics-color=always"
 				}
 			],
-			"language" : "CXX",
+			"language" : "C",
 			"languageStandard" : 
 			{
 				"backtraces" : 
@@ -52,8 +52,7 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -75,7 +74,7 @@
 				"role" : "libraries"
 			}
 		],
-		"language" : "CXX"
+		"language" : "C"
 	},
 	"name" : "L2",
 	"nameOnDisk" : "L2.exe",
@@ -90,15 +89,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
-			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				2
+				0
 			]
 		}
 	],
@@ -107,19 +98,8 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
+			"path" : "main.c",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "defs.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "defs.h",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
