@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/bln15/Documents/GitHub/Laby-C/L2/cmake-build-debug"
+			"value" : "c:/Users/bln15/Documents/GitHub/Laby-C/L3/zad1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L3/zad1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L2"
+			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L3/zad1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/L2"
+			"value" : "C:/Program Files (x86)/L3"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "L2"
+			"value" : "L3"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,7 +1126,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "L2_BINARY_DIR",
+			"name" : "L3_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,10 +1135,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L2/cmake-build-debug"
+			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L3/zad1/cmake-build-debug"
 		},
 		{
-			"name" : "L2_IS_TOP_LEVEL",
+			"name" : "L3_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1150,7 +1150,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "L2_SOURCE_DIR",
+			"name" : "L3_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L2"
+			"value" : "C:/Users/bln15/Documents/GitHub/Laby-C/L3/zad1"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
