@@ -4,10 +4,13 @@
 
 void decimalToBinary(unsigned int number) {
 
-    unsigned int binary = 0; // zmienna do przechowania reprezentacji binarnej
-    unsigned int power = 1; // zmienna pomocniczna do potegi 2
+    // zmienna do przechowania reprezentacji binarnej
+    unsigned int binary = 0;
+    // zmienna pomocniczna do potegi 2
+    unsigned int power = 1;
 
-    unsigned int originalNumber = number; // zachowanie podanej liczby
+    // zachowanie podanej liczby
+    unsigned int originalNumber = number;
 
     while (number > 0) {
         binary += (number % 2) * power; // reszta z dzielenia przed 2
