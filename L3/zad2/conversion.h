@@ -1,2 +1,2 @@
 // deklaracja funkcji
-void decimalToBinary(unsigned int number);
+void decimalToBinary(int number);

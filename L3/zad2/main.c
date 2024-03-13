@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "conversion.h"
 
-int main(){
+int main() {
 
         //liczba do przekształcenia
-        unsigned int number;
+        int number;
 
         printf("Konwersja liczby dziesietnej na binarna\n");
         printf("\n");
