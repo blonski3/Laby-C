@@ -1,0 +1,18 @@
+# ninja log v5
+0	114	7337979850978635	CMakeFiles/Zadanie_1.dir/multiply.cpp.obj	ba1b0a0e4116e211
+1	465	7337980015756669	CMakeFiles/Zadanie_1.dir/main.cpp.obj	ae1891eefd654675
+467	723	7337980018276042	Zadanie_1.exe	e228f07e92961223
+3	468	7337980179141452	CMakeFiles/Zadanie_1.dir/main.cpp.obj	ae1891eefd654675
+469	589	7337980180285630	Zadanie_1.exe	e228f07e92961223
+4	482	7337980364448627	CMakeFiles/Zadanie_1.dir/main.cpp.obj	ae1891eefd654675
+483	604	7337980365614900	Zadanie_1.exe	e228f07e92961223
+4	94	7337980881768398	CMakeFiles/Zadanie_1.dir/multiply.cpp.obj	ba1b0a0e4116e211
+4	94	7337981049529898	CMakeFiles/Zadanie_1.dir/multiply.cpp.obj	ba1b0a0e4116e211
+10	474	7337981053321323	CMakeFiles/Zadanie_1.dir/main.cpp.obj	ae1891eefd654675
+474	602	7337981054551676	Zadanie_1.exe	e228f07e92961223
+5	127	7337987991571777	CMakeFiles/Zadanie_1.dir/multiply.cpp.obj	ba1b0a0e4116e211
+12	482	7337987995134624	CMakeFiles/Zadanie_1.dir/main.cpp.obj	ae1891eefd654675
+483	881	7337987999048810	Zadanie_1.exe	e228f07e92961223
+4	100	7337988082281589	CMakeFiles/Zadanie_1.dir/multiply.cpp.obj	ba1b0a0e4116e211
+12	503	7337988086303011	CMakeFiles/Zadanie_1.dir/main.cpp.obj	ae1891eefd654675
+503	628	7337988087486776	Zadanie_1.exe	e228f07e92961223
