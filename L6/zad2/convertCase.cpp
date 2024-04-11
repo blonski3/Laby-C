@@ -3,7 +3,7 @@
 void convertCase(char text[]) {
 
     // iterujemy przez tablice do konca znakow
-    for (int i = 0; text[i] != '\0'; ++i) {
+    for (int i = 0; text[i] != '\0'; ++i) { // \0 iteruje do samego konca znakow
 
         // zmiana znakow od a do z, && - operator logiczny AND
         if (text[i] >= 'a' && text[i] <= 'z') {
