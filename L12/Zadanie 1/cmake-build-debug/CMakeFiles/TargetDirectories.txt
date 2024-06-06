@@ -1,0 +1,3 @@
+C:/Users/bln15/Documents/GitHub/Laby-C/L12/Zadanie 1/cmake-build-debug/CMakeFiles/Zadanie_1.dir
+C:/Users/bln15/Documents/GitHub/Laby-C/L12/Zadanie 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bln15/Documents/GitHub/Laby-C/L12/Zadanie 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+9	539	7393990077909940	CMakeFiles/Zadanie_1.dir/main.c.obj	fdf440a9b3eb0f40
+14	671	7393990079202788	CMakeFiles/Zadanie_1.dir/statemachine.c.obj	2ebdd4ec93e02969
+19	680	7393990079222861	CMakeFiles/Zadanie_1.dir/state.c.obj	49af905401770f24
+1	681	7393990079212838	CMakeFiles/Zadanie_1.dir/reader.c.obj	146f58ae2c398904
+681	1143	7393990083899302	Zadanie_1.exe	ffb9ed8310c4c567
+10	121	7393993069088564	CMakeFiles/Zadanie_1.dir/statemachine.c.obj	2ebdd4ec93e02969
+4	139	7393993069249470	CMakeFiles/Zadanie_1.dir/reader.c.obj	146f58ae2c398904
+139	269	7393993070492939	Zadanie_1.exe	ffb9ed8310c4c567
+3	114	7393995394987096	CMakeFiles/Zadanie_1.dir/statemachine.c.obj	2ebdd4ec93e02969
+11	185	7393995395704163	CMakeFiles/Zadanie_1.dir/state.c.obj	49af905401770f24
+185	390	7393995397703558	Zadanie_1.exe	ffb9ed8310c4c567
