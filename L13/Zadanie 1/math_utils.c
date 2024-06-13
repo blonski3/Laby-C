@@ -10,8 +10,5 @@ int gcd(int x, int y) { //nwd, algorytm euklidesa
 }
 
 int lcm(int x, int y) { //nww
-    if (x == 0 || y == 0) {
-        return 0;
-    } else
         return (x * y) / gcd(x, y); // obliczamy nww na podstawie nwd
 }

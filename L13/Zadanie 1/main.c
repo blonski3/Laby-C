@@ -11,8 +11,8 @@ int main() {
         return 1;
     }
 
-    int nwd = gcd(x, y); //z utworzonej biblioteki libmath oblicza nwd i
-    int nww = lcm(x, y); //nww
+    int nwd = gcd(x, y); //z utworzonej biblioteki libmath oblicza nwd i nnw
+    int nww = lcm(x, y);
 
     printf("nwd(%d, %d) = %d\n", x, y, nwd);
     printf("nww(%d, %d) = %d\n", x, y, nww);
