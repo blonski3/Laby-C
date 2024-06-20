@@ -3,7 +3,7 @@
 #include "fib.h"
 
 // Testy jednostkowe przy użyciu assert
-void fibtest() {
+int fibtest() {
 
     assert(fib(0) == 0);
     assert(fib(1) == 1);
@@ -17,5 +17,7 @@ void fibtest() {
     assert(fib(30) == 832040);
 
     printf("jest ok.");
+
+    return 0;
 
 }

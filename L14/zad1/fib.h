@@ -1,4 +1,4 @@
 #pragma once
 
 int fib(int n);
-void fibtest();
+int fibtest();
